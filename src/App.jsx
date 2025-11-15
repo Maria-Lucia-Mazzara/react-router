@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import HomePage from './assets/Components/HomePage';
 import ChiSiamo from './assets/Components/ChiSiamo';
-import Prodotti from './assets/Components/Prodotti';
+import Prodotti from './assets/Components/Prodotti'
 
 
 function App() {
