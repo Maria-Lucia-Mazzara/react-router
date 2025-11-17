@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-import HomePage from './assets/Components/HomePage';
-import ChiSiamo from './assets/Components/ChiSiamo';
-import Prodotti from './assets/Components/Prodotti';
+import HomePage from './assets/pages/HomePage';
+import ChiSiamo from './assets/pages/ChiSiamo';
+import Prodotti from './assets/pages/Prodotti';
 import NavBar from './assets/Components/NavBar'
 
 
